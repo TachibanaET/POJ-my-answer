@@ -1,3 +1,4 @@
+#有问题
 #include<stdio.h>
 int main(){
   int i,j = 2,k,n = 1; // innshi
