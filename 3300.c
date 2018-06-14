@@ -1,3 +1,4 @@
+//392K	0MS
 #include<stdio.h>
 
 int main(){
